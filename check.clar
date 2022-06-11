@@ -1,3 +1,5 @@
+;; CODE SAMPLE FOR https://ojha.dev/
+
 ;; Non Fungible Token
 ;; Token authentication tool for DonSafe, a blockchain and AI based organ donation interface
 ;; Token is authenticated for use by donor, recipient and the hospital
